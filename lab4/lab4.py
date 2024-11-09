@@ -4,7 +4,6 @@ s1=input("Enter a string to reverse : ")
 reverse=s1[::-1]
 print(reverse)
 
-
 # 2) Create a program that performs basic string compression using the counts of repeated characters. For example, the string “aabcccccaaa” would become “a2b1c5a3”.
 
 s2=input("Enter a string to compress : ")
