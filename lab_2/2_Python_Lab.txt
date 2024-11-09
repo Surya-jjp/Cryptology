@@ -1,4 +1,4 @@
-String Operations in Python 
+ String Operations in Python 
 
 1. Find the length of the string 
 2. Slice the string as per your choice 
